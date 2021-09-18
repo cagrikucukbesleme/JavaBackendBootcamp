@@ -6,3 +6,5 @@
 
 
 Harmonic Series Formula:
+
+1/n
