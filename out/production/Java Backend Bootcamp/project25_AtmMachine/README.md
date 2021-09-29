@@ -2,7 +2,7 @@
 
 ## You have the right to enter the password 3 times
 
-Options should be presented in the interface
+Options should be presented in the interface:
 deposit
 Withdraw money
 Balance inquiry
