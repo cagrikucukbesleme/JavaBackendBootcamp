@@ -15,12 +15,16 @@ public class HarmonicMean {
         Random r = new Random();
         int sum = 0;
         int average ;
+        double har;
 
 
 
         for (int i=0; i< numbers.length;i++){
             numbers[i]=r.nextInt(100);
             sum+= numbers[i];
+            har=1.0/(i+1);
+            System.out.println("Harmonic values= 1/"+(i+1)+"  har= "+ har);
+
 
         }
         System.out.println(Arrays.toString(numbers));
