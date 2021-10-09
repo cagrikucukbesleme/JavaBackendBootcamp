@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12578bda-f0e1-4672-8a5f-02477a4c68a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SmalProjects/src/project41_ArraySort/ArraySrt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SmalProjects/src/project42_FrequencyArray/FreqArr.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +28,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ArraySrt">
+  <component name="RunManager" selected="Application.FreqArr">
     <configuration name="ArraySrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="project41_ArraySort.ArraySrt" />
       <module name="Java Backend Bootcamp" />
@@ -56,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HarmonicMean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="project37_HarmonicMean.HarmonicMean" />
+    <configuration name="FreqArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project42_FrequencyArray.FreqArr" />
       <module name="Java Backend Bootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="project37_HarmonicMean.*" />
+          <option name="PATTERN" value="project42_FrequencyArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FreqArr" />
         <item itemvalue="Application.ArraySrt" />
         <item itemvalue="Application.DublicateArr" />
         <item itemvalue="Application.WithStarsB" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.HarmonicMean" />
       </list>
     </recent_temporary>
   </component>
