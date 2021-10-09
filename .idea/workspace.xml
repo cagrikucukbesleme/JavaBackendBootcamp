@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12578bda-f0e1-4672-8a5f-02477a4c68a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SmalProjects/src/project38_FindMinMaxArray/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SmalProjects/src/project39_BwithStars/WithStarsB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.WithStarsB">
     <configuration name="HarmonicMean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="project37_HarmonicMean.HarmonicMean" />
       <module name="Java Backend Bootcamp" />
@@ -56,8 +56,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WithStarsB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project39_BwithStars.WithStarsB" />
+      <module name="Java Backend Bootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project39_BwithStars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WithStarsB" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.HarmonicMean" />
       </list>
@@ -84,5 +98,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
