@@ -1,0 +1,2 @@
+# Program to Find Repeating Numbers in a Sequence
+Now it's your turn! You should share your GitHub repo with us by writing a program that detects repeating even numbers in a string of numbers. Good luck with.
