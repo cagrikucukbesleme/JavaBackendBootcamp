@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12578bda-f0e1-4672-8a5f-02477a4c68a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SmalProjects/src/project42_FrequencyArray/FreqArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SmalProjects/src/project43_MatrixTranspose/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.FreqArr">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="ArraySrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="project41_ArraySort.ArraySrt" />
       <module name="Java Backend Bootcamp" />
@@ -68,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="project38_FindMinMaxArray.Main" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project43_MatrixTranspose.Main" />
       <module name="Java Backend Bootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="project38_FindMinMaxArray.*" />
+          <option name="PATTERN" value="project43_MatrixTranspose.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,11 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.FreqArr" />
         <item itemvalue="Application.ArraySrt" />
         <item itemvalue="Application.DublicateArr" />
         <item itemvalue="Application.WithStarsB" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
