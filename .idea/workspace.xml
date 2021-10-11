@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12578bda-f0e1-4672-8a5f-02477a4c68a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SmalProjects/src/project45_PalindromicValue/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SmalProjects/src/project46_MinesweeperGame/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SmalProjects/src/project46_MinesweeperGame/MineSweeper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,20 +30,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="ArraySrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="project41_ArraySort.ArraySrt" />
-      <module name="Java Backend Bootcamp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="project41_ArraySort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="FreqArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="project42_FrequencyArray.FreqArr" />
       <module name="Java Backend Bootcamp" />
@@ -82,6 +70,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="project46_MinesweeperGame.Main" />
+      <module name="Java Backend Bootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project46_MinesweeperGame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="project44_NumberPrediction.Main" />
       <module name="Java Backend Bootcamp" />
@@ -97,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.FreqArr" />
-        <item itemvalue="Application.ArraySrt" />
       </list>
     </recent_temporary>
   </component>
