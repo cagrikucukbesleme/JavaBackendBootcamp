@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12578bda-f0e1-4672-8a5f-02477a4c68a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SmalProjects/src/OrderRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/postgresql-42.3.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Backend Bootcamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Backend Bootcamp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SmalProjects/src/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
