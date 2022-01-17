@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12578bda-f0e1-4672-8a5f-02477a4c68a0" name="Default Changelist" comment="" />
+    <list default="true" id="12578bda-f0e1-4672-8a5f-02477a4c68a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/SmalProjects/src/OrderRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postgresql-42.3.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Backend Bootcamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Backend Bootcamp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SmalProjects/src/test.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +31,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/postgresql-42.3.1.jar" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\monster\Documents\Java Backend Bootcamp" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.test">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
